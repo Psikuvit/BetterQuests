@@ -1,0 +1,12 @@
+NPC-IDS: # this represents npc type
+  0: Hunter
+  1: Biologist
+
+Handing-Delay: 60 # This will be the amount of time between each time you bring an item, represented by seconds
+
+MySQL:
+  host: localhost
+  port: 3306
+  database: database
+  username: root
+  password: password

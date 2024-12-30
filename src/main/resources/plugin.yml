@@ -1,0 +1,4 @@
+name: BetterQuests
+version: '1.0'
+main: me.psikuvit.betterQuests.BQPlugin
+api-version: '1.13'
